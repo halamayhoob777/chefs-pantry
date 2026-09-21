@@ -1,4 +1,18 @@
 # React + TypeScript + Vite
+## About The Project
+**Chef's Pantry** is a responsive web application designed to help users discover meal recipes based on available ingredients, browse categories, and view detailed cooking instructions.
+
+### Key Features
+-  **Recipe Search:** Search for meals by name or main ingredients.
+-  **Category Browsing:** Explore various meal categories and cuisines.
+-  **Recipe Details:** View step-by-step cooking instructions and ingredient lists.
+-  **Responsive Design:** Optimized for seamless viewing on mobile, tablet, and desktop screens.
+
+###  Built With
+- **React** & **TypeScript**
+- **Vite**
+- **Axios** (for fetching API data)
+- **MUI**
 ### 📹 Demo Video
 [اضغط هنا لمشاهدة الفيديو التوضيحي للمشروع على Google Drive](https://drive.google.com/file/d/1R-rvXQSAnvr3UbPlyMZrWfEZEA9_pz6m/view?usp=sharing)
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
